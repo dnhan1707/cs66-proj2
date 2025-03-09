@@ -1,6 +1,7 @@
-d X 12
-d Y 0
+d X 5
+d Y 6
+d Z 0
 G X
-A X
-P Y
+A Y
+P Z
 S
