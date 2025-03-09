@@ -1,0 +1,6 @@
+d X 12
+d Y 0
+G X
+A X
+P Y
+S
